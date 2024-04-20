@@ -1,0 +1,27 @@
+body{
+    font: times;
+    background-color: beige;
+    padding: 7px;
+}
+button{
+    font-size: 19px; 
+    font-weight: bold;
+    padding: 3px; width: 150px; height: 30px;
+    background-color: rgb(211, 197, 197); color: black
+}
+#p1{
+    font-size: 24px;
+    
+    padding: 4px; border-color: rgb(131, 21, 72);
+}
+h1{
+   
+    padding: 5px;
+    border-radius: 5px;
+    align-content: center;
+
+}
+#ol1{
+    padding: 15px;
+}
+    
